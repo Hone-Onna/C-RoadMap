@@ -1,4 +1,6 @@
 # C-Roadmap
+[![license](https://img.shields.io/github/license/peaceiris/actions-gh-pages.svg)](https://github.com/Shvana/C-RoadMap/blob/master/LICENSE)
+[![C](https://img.shields.io/badge/C-C99-lightgrey)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Support me on Patreon][badge_patreon]][patreon]  [![PayPal][badge_paypal]][paypal-donations]
 
 ## :sparkling_heart:  Support my projects

@@ -10,6 +10,9 @@ add_executable(croadmap main.c)
 add_executable(croadmap_math math/radius.c)
 add_executable(croadmap_math_int math/integer_greater.c)
 add_executable(croadmap_math-rep math/repetition_char.c)
+add_executable(croadmap_math-cal math/interest_calculator.c)
+
+
 
 # Other executable
 #add_executable(croadmap_dem demo_examples/look.c)
